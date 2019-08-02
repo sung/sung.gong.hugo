@@ -1,9 +1,12 @@
 ---
 title: CV 
 type: page
-tags: 
+tags:
 - CV
 bibliography: ../static/files/works.bib
+output: 
+    blogdown::html_page:
+        toc: true
 ---
 
 
