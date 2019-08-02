@@ -23,12 +23,11 @@ disqusShortname = "localhost"
 name = "Home"
 url = "/"
 weight = 1
-hello
 
-#[[menu.main]]
-#name = "All posts"
-#url = "/posts"
-#weight = 2
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
 
 [[menu.main]]
 name = "About"

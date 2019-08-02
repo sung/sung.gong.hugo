@@ -23,8 +23,7 @@ ignoreFiles=["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	disableDisqusTypes = ["page"]
     # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
 	featherIconsCDN = true
-    #footer = "&copy; [Sung Gong](https://sung.bio.cc) 2019"
-    footer = "[Sung Gong](https://sung.bio.cc) 2019"
+    footer = "&copy; [Sung Gong](https://sung.bio.cc) 2019"
 
 [[menu.main]]
 name = "Home"
@@ -32,13 +31,13 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "CV"
+url = "/cv"
 weight = 2 
 
 [[menu.main]]
-name = "Test"
-url = "/test"
+name = "About"
+url = "/about"
 weight = 3 
 
 #[[menu.main]]

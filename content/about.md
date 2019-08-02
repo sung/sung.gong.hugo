@@ -1,8 +1,6 @@
 ---
-title: "About Me"
-date: 2019-04-19T21:37:58+05:30
+title: "How I was made"
 type: "page"
 ---
 
-I am from about.md djfkd
-djkfdjj
+:)
