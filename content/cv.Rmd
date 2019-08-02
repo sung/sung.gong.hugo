@@ -1,0 +1,16 @@
+---
+title: CV 
+type: page
+tags: 
+- CV
+---
+
+
+## Education
+
+1. Oct, 2006 – Aug, 2010: PhD, [Department of Biochemistry](https://www.bioc.cam.ac.uk/), University of Cambridge, Cambridge, UK (supervisor: [Professor Sir Tom Blundell](https://en.wikipedia.org/wiki/Tom_Blundell)) Thesis title: [Structural and Functional Analysis of Single Amino Acid Replacement in Proteins: Insights from Protein Evolution into the Disease Aetiology](http://idiscover.lib.cam.ac.uk/permalink/f/t9gok8/44CAM_ALMA21430922120003606) [[download](/files/phd_thesis_sung_final_2011.pdf)]
+2. Sep, 2003 – Aug, 2005: MSc, [Department of BioSystems](https://bioeng.kaist.ac.kr), KAIST (Korea Advanced Institute of Science and Technology), Daejeon, Korea (supervisor: Dr. Jong Bhak & Dr. Kwang-Hyung Lee) Thesis title: [PSIbase and interpare : systems for studying protein structural interactomics](http://koasas.kaist.ac.kr/handle/10203/27114)
+3. Mar, 2002 – Aug, 2003: BSc, [Department of Computer Science](https://cs.korea.edu), Korea University, Seoul, Korea.
+4. Mar, 1995 – Feb, 2002: BSc, [Department of Biology](https://lifesci.korea.edu), Korea University, Seoul, Korea
+
+## Publications
