@@ -3,6 +3,7 @@ title: CV
 type: page
 tags: 
 - CV
+bibliography: ../static/files/works.bib
 ---
 
 
@@ -14,3 +15,14 @@ tags:
 4. Mar, 1995 – Feb, 2002: BSc, [Department of Biology](https://lifesci.korea.edu), Korea University, Seoul, Korea
 
 ## Publications
+```{r, echo=FALSE,eval=F }
+biblio <-bibtex::read.bib("../static/files/works.bib")
+print(biblio)
+```
+
+---
+#nocite: | 
+#    @Gong_2008 @Gong_2011 @Gong_2010
+#    @Tanramluk_2016, @Cindrova-Davies2017, @Sungsam_Gong46473415, @Gong_2018
+nocite: '@*'
+...
