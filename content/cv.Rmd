@@ -29,17 +29,15 @@ bibliography: ../static/files/works.bib
 
 
 
-## Publications
+## Selected Publications
 ```{r, echo=FALSE,eval=F }
 biblio <-bibtex::read.bib("../static/files/works.bib")
 print(biblio)
 ```
+[[full list](https://www.ncbi.nlm.nih.gov/pubmed/?term=sungsam+gong%5Bau%5D)]
 
 ---
-#nocite: | 
-#    @Gong_2008 @Gong_2011 @Gong_2010
-#    @Tanramluk_2016, @Cindrova-Davies2017, @Sungsam_Gong46473415, @Gong_2018
-nocite: '@*'
+nocite: | 
+    @Gong_2018a, @Gong_2018b, @Gong_2013, @Gong_2011, @Worth_2009, @Gong_2008
+#nocite: '@*'
 ...
-
-
