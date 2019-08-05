@@ -9,6 +9,7 @@
 				{{- range $index, $key := .Site.Params.Social -}}
 				<a href="{{ $key.url }}" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>
 				{{- end -}}
+                | <a itemprop="sameAs" content="https://orcid.org/0000-0001-5796-4423" href="https://orcid.org/0000-0001-5796-4423" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;" title="my ORCID"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>
 			</ul>
 		</nav>
 	</div>

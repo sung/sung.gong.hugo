@@ -1,13 +1,23 @@
 ---
 title: CV 
-type: page
+date: 2019-08-05
+type: "page"
 tags:
 - CV
 bibliography: ../static/files/works.bib
-output: 
-    blogdown::html_page:
-        toc: true
+#output: 
+#    blogdown::html_page:
+#        toc: true
 ---
+
+## Employment
+1. Apr, 2014 – Current: [Senior Research Associate in Bioinformatics](https://www.obgyn.cam.ac.uk/staff/research-staff/sung-gong/), [Department of Obstetrics & Gynaecology](https://www.obgyn.cam.ac.uk/), University of Cambridge, UK
+2. Feb, 2015 – Aug, 2017: Visiting Researcher, Wellcome Trust Sanger Institute, Hinxton, UK 
+3. Sep, 2010 – Mar, 2014: Lead Bioinformatician, [Cardiovascular Genetics and Genomics](https://www.rbht.nhs.uk/our-services/clinical_support/laboratories/clinical-genetics-and-genomics-laboratory), NIHR Cardiovascular Biomedical Research Unit, [Royal Brompton and Harefield NHS Foundation Trust](https://www.rbht.nhs.uk/) and Imperial College, London, UK
+4. Mar, 2011 – Mar, 2013: Honorary Research Associate in Heart Science, National Heart and Lung Institute, London, UK
+5. Sep, 2010 – Sep, 2012: Visiting Scientist, MRC Clinical Science Centre, Hammersmith, London, UK
+6. Sep, 2005 – Sep, 2006: Research Scientist, KOBIC (Korean Bioinformation Centre), KRIBB (Korea Research Institute of Bioscience and Biotechnology), Daejeon, Korea
+
 
 
 ## Education
@@ -16,6 +26,8 @@ output:
 2. Sep, 2003 – Aug, 2005: MSc, [Department of BioSystems](https://bioeng.kaist.ac.kr), KAIST (Korea Advanced Institute of Science and Technology), Daejeon, Korea (supervisor: Dr. Jong Bhak & Dr. Kwang-Hyung Lee) Thesis title: [PSIbase and interpare : systems for studying protein structural interactomics](http://koasas.kaist.ac.kr/handle/10203/27114)
 3. Mar, 2002 – Aug, 2003: BSc, [Department of Computer Science](https://cs.korea.edu), Korea University, Seoul, Korea.
 4. Mar, 1995 – Feb, 2002: BSc, [Department of Biology](https://lifesci.korea.edu), Korea University, Seoul, Korea
+
+
 
 ## Publications
 ```{r, echo=FALSE,eval=F }
@@ -29,3 +41,5 @@ print(biblio)
 #    @Tanramluk_2016, @Cindrova-Davies2017, @Sungsam_Gong46473415, @Gong_2018
 nocite: '@*'
 ...
+
+
