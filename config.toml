@@ -7,7 +7,7 @@ pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = ""
+googleAnalytics = "UA-145279805-1"
 disqusShortname = "localhost"
 
 ignoreFiles=["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -23,7 +23,7 @@ ignoreFiles=["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	disableDisqusTypes = ["page"]
     # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
 	featherIconsCDN = true
-    footer = "&copy; [Sung Gong](https://sung.bio.cc) 2019"
+    footer = "&copy; [Sung Gong](http://sung.bio.cc) 2019"
 
 [[menu.main]]
 name = "Home"
